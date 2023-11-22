@@ -1,0 +1,49 @@
+
+#Background{
+    background-color: aqua;
+}
+
+h2{
+    text-align: center;
+    -webkit-text-fill-color: green;
+    font-family: Lucida Handwriting;
+    
+    
+}
+.Img{
+    height: 120px;
+    width: 840px;
+    z-index: 1;
+}
+img{
+    height: 60px;
+    width: 60px;
+
+}
+#crt{
+    
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    font-family: papyrus;
+    -webkit-text-fill-color: darkolivegreen;
+    z-index: 2;
+    
+    
+}
+
+#gap{
+    margin-bottom: 20px;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+
+    background-color: greenyellow
+}
+#detail{
+    -webkit-text-fill-color: blue;
+    font-family: cursive;
+}

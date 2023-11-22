@@ -1,0 +1,40 @@
+.Container1{
+    display: flex;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    width: 300px;
+    
+}
+.Container2{
+    display: flex;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    width: 300px;
+
+}
+.Container3{
+    display: flex;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    width: 300px;
+
+}
+.Container4{
+    display: flex;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    width: 300px;
+
+}
+.Container5{
+    display: flex;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    width: 300px; 
+}  
+/* .container{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20%;
+    padding-bottom: 50%;
+}  */
